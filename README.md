@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sam
 - 💼 I work for Bubble as a Product developer.
-- 👀 I’m interested in indie hacking, javascript, frameworks, bubble & no-code tools, and bootstrapping apps.
+- 👀 I’m interested in indie hacking, javascript, rust, various frameworks, bubble & no-code tools, and bootstrapping apps.
 - 🌱 I’m currently learning and looking to collaborate on all of the above.
 - 💻 www.morgan.dev
 - 📫 sam@morgan.dev
